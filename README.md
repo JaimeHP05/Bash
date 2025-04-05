@@ -1,6 +1,6 @@
 # Prácticas de Bash
 
-Este repositorio contiene los ejercicios de Bash que voy realizando en la asignatura Programación y Administración de Empresas. Cada carpeta representa una práctica diferente, con su respectiva descripción y ejercicios.
+Este repositorio contiene los ejercicios de Bash que voy realizando en la asignatura Programación y Administración de Sistemas. Cada carpeta representa una práctica diferente, con su respectiva descripción y ejercicios.
 
 ## Contenido
 
