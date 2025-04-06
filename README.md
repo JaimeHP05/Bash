@@ -36,10 +36,18 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 
 ## Bloque 1
 
-1. **Ejercicio 1**
+- **Ejercicio 1:**
+  
    Lee una carpeta que tiene un puñado de archivos con la asistencia de cada alumno a clase. A continuación, muestra cuántas personas fueron a cada clase. Este código se puede cambiar a muchas extensiones, tales como mostrar cuántas veces ha venido un estudiante a clase.
+  
 
-2. **Ejercicio 2**
+- **Ejercicio 2:**
+  
    Copia un directorio, permitiendo elegir entre archivarlo (.tar) o comprimirlo (.tar.gz). Verifica argumentos, crea el directorio de destino si no existe, genera un nombre de archivo con fecha y usuario, y controla si se puede sobrescribir. Finalmente, realiza la operación seleccionada y guarda el archivo en el directorio indicado.
+
+
+- **Ejercicio 3:**
+  
+   Verifica los permisos de los directorios y archivos relacionados con las claves SSH de los usuarios en un sistema. Si detecta problemas, genera un archivo de advertencia en el escritorio del usuario afectado.
 
 ## [WORK IN PROGRESS]
