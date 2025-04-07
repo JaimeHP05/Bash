@@ -50,4 +50,7 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
   
    Verifica los permisos de los directorios y archivos relacionados con las claves SSH de los usuarios en un sistema. Si detecta problemas, genera un archivo de advertencia en el escritorio del usuario afectado.
 
+- **Ejercicio 4:**
+  Genera una cadena aleatoria de una longitud específica y de un tipo determinado (alfa, num o alfanum) utilizando /dev/urandom para obtener caracteres aleatorios. Verifica los argumentos de entrada y solicita el tipo si no se proporciona.
+
 ## [WORK IN PROGRESS]
