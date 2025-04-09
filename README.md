@@ -58,4 +58,7 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 
   Recorre un directorio dado, lista todos los archivos y muestra información detallada de cada uno (nombre, ruta completa, fecha de modificación, tamaño y permisos). Finalmente, ordena los resultados por fecha de modificación en orden ascendente.
 
+- **Ejercicio 6:**
+  
+  Genera un archivo index.html en un directorio, que contiene una lista en formato HTML de todos los archivos y subdirectorios dentro de ese directorio. Para los subdirectorios, crea enlaces recursivos a sus propios índices HTML. Verifica que el directorio exista antes de ejecutarse y muestra mensajes de confirmación al crear cada índice.
 ## [WORK IN PROGRESS]
