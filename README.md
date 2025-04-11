@@ -62,6 +62,16 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
   
   Genera un archivo index.html en un directorio, que contiene una lista en formato HTML de todos los archivos y subdirectorios dentro de ese directorio. Para los subdirectorios, crea enlaces recursivos a sus propios índices HTML. Verifica que el directorio exista antes de ejecutarse y muestra mensajes de confirmación al crear cada índice.
 
+- **Ficheros Complementarios:**
+  
+  Ficheros_Ejercicio1 --> Puedes añadir todos los archivos de texto que quieras, pero deben cumplir las siguientes condiciones:
+    - Cada línea sólo puede incluir un 1 o un 0
+    - Todos los alumnos deben tener el mismo número de líneas (sesiones en las que ha habido esa clase)
+    - El fichero que se muestra en su carpeta es sólo un ejemplo, puedes añadir todos los que quieras.
+
+  generar_ficheros_ejercicio3.sh --> Es un programa que genera los usuarios sobre los que se va a realizar el ejercicio de la práctica. Este programa no ha sido creado por mí, formaba parte del enunciado de la tarea y había que aplicarlo de igual forma.
+
+  
 ## Bloque 2
 
 - **Ejercicio 1:**
