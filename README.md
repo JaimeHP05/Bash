@@ -81,4 +81,6 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 
 - **Ejercicio 2:**
 
+  Verifica que un archivo .txt exista y sea válido. Luego, procesa su contenido utilizando sed para formatear campos como Título, Autor, Año, Precio y Género, reorganizándolos en un formato más legible.
+
 ## [WORK IN PROGRESS]
