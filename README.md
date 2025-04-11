@@ -61,4 +61,14 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 - **Ejercicio 6:**
   
   Genera un archivo index.html en un directorio, que contiene una lista en formato HTML de todos los archivos y subdirectorios dentro de ese directorio. Para los subdirectorios, crea enlaces recursivos a sus propios índices HTML. Verifica que el directorio exista antes de ejecutarse y muestra mensajes de confirmación al crear cada índice.
+
+## Bloque 2
+
+- **Ejercicio 1:**
+  
+   Genera un archivo index.html en un directorio dado, que contiene una lista en formato HTML de todos los archivos y subdirectorios dentro de ese directorio. Para los subdirectorios, crea enlaces recursivos a sus propios índices HTML. Verifica que el directorio exista antes de ejecutarse y muestra mensajes de confirmación al crear cada índice.
+  
+
+- **Ejercicio 2:**
+
 ## [WORK IN PROGRESS]
