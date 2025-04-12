@@ -83,4 +83,12 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 
   Verifica que un archivo .txt exista y sea válido. Luego, procesa su contenido utilizando sed para formatear campos como Título, Autor, Año, Precio y Género, reorganizándolos en un formato más legible.
 
+- **Ejercicio 3:**
+
+  Uhh espera a mañana que me he confundido y hoy he enviado el 4 (ups)
+
+- **Ejercicio 4:**
+
+  Procesa el archivo `/etc/passwd` para extraer información específica de los usuarios del sistema. Muestra usuarios cuyo nombre empieza con "l", usuarios con shells válidos, UID de usuarios cuyo directorio home no está en `/home`, usuarios con GID mayor a 1000, y usuarios con una coma en su campo GECOS.
+
 ## [WORK IN PROGRESS]
