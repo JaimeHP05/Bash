@@ -85,10 +85,12 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 
 - **Ejercicio 3:**
 
-  Uhh espera a mañana que me he confundido y hoy he enviado el 4 (ups)
+   Procesa un archivo de registros de acceso web, filtra las solicitudes con código HTTP 200, y extrae las direcciones IP y URLs solicitadas. Según la opción proporcionada (repite-si o repite-no), muestra todas las solicitudes o un conteo único de accesos, junto con el total de accesos.
 
 - **Ejercicio 4:**
 
   Procesa el archivo `/etc/passwd` para extraer información específica de los usuarios del sistema. Muestra usuarios cuyo nombre empieza con "l", usuarios con shells válidos, UID de usuarios cuyo directorio home no está en `/home`, usuarios con GID mayor a 1000, y usuarios con una coma en su campo GECOS.
+
+- **Ejercicio 5:**
 
 ## [WORK IN PROGRESS]
