@@ -93,4 +93,6 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 
 - **Ejercicio 5:**
 
+  Analiza las interfaces de red disponibles en el sistema y muestra información como la dirección IP, broadcast, máscara de red (en bits), si el cable está conectado, y las velocidades soportadas y anunciadas. Utiliza herramientas como ifconfig y ethtool para obtener los datos.
+
 ## [WORK IN PROGRESS]
