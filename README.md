@@ -95,4 +95,6 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 
   Analiza las interfaces de red disponibles en el sistema y muestra información como la dirección IP, broadcast, máscara de red (en bits), si el cable está conectado, y las velocidades soportadas y anunciadas. Utiliza herramientas como ifconfig y ethtool para obtener los datos.
 
-## [WORK IN PROGRESS]
+- **Ejercicio 6:**
+
+  Analiza los últimos 20 comandos del historial (~/.bash_history), cuenta cuántas veces se ejecutó cada comando y determina el máximo número de argumentos usados con cada uno. Utiliza archivos temporales para procesar los datos y muestra un resumen por comando antes de eliminar los archivos temporales.
