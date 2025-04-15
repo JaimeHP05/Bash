@@ -78,7 +78,6 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
   
    Genera un archivo index.html en un directorio dado, que contiene una lista en formato HTML de todos los archivos y subdirectorios dentro de ese directorio. Para los subdirectorios, crea enlaces recursivos a sus propios índices HTML. Verifica que el directorio exista antes de ejecutarse y muestra mensajes de confirmación al crear cada índice.
   
-
 - **Ejercicio 2:**
 
   Verifica que un archivo .txt exista y sea válido. Luego, procesa su contenido utilizando sed para formatear campos como Título, Autor, Año, Precio y Género, reorganizándolos en un formato más legible.
@@ -98,3 +97,9 @@ Este repositorio contiene los ejercicios de Bash que voy realizando en la asigna
 - **Ejercicio 6:**
 
   Analiza los últimos 20 comandos del historial (~/.bash_history), cuenta cuántas veces se ejecutó cada comando y determina el máximo número de argumentos usados con cada uno. Utiliza archivos temporales para procesar los datos y muestra un resumen por comando antes de eliminar los archivos temporales.
+
+- **Ficheros Complementarios:**
+  
+  libros.txt --> Un fichero de texto con libros escritos según el formato que lee el ejercicio, puedes crear todos los libros extras que quieras. Este archivo no ha sido creado por mí.
+  
+  access.log --> Es el archivo que lee el ejercicio 3 para sacar la información de los registros. Este archivo no ha sido creado por mí.
